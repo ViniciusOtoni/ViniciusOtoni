@@ -1,4 +1,4 @@
-## Oiii! Eu sou o Vinicius Otoni da Silva  <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+## Olá! Me Chamo Vinicius Otoni da Silva  <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
  <br/>
  <div>
   <a href="https://github.com/ViniciusOtoni">
@@ -21,10 +21,19 @@
   ##
  
 <div> 
+ 
+
+ <img alt="imagem" min-width="400px" max-width="400px" width="400px" align="right" src="https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/1459496/programming-clipart-xl.png" />
+ 
+ ### Formas De Contato:
+ 
    <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:viniciusotonimsv@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
+ 
+ 
+ ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
