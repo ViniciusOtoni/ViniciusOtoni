@@ -9,7 +9,7 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusOtoni&layout=compact&langs_count=7&theme=dracula"/>
   </div>  
  
- ##🚀 SKILLS
+## 🚀 SKILLS
 
 <div style="inline_block">
     <br>
