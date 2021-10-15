@@ -6,7 +6,7 @@
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="250px" max-width="250px" width="350px" align="right" alt="Computador">
 </div>
   <div>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusOtoni&layout=compact&langs_count=7&theme=dracula"  width="460px"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusOtoni&layout=compact&langs_count=7&theme=dracula"  width="455px"/>
   </div>  
  
 ## 🚀 SKILLS
