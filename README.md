@@ -3,7 +3,7 @@
  <div>
   <a href="https://github.com/ViniciusOtoni">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusOtoni&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="250px" max-width="250px" width="350px" align="right" alt="Computador">
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="250px" max-width="250px" width="340px" align="right" alt="Computador">
 </div>
   <div>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusOtoni&layout=compact&langs_count=7&theme=dracula"  />
