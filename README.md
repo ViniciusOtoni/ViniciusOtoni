@@ -38,8 +38,8 @@
 
  <div>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusOtoni&layout=compact&langs_count=7&theme=dracula"  />
-    <img alt="imagem" min-width="400px" max-width="400px" width="400px" align="right" src="https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/1459496/programming-clipart-xl.png" /> 
  </div>  
+ <img alt="imagem" min-width="400px" max-width="400px" width="400px" align="right" src="https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/1459496/programming-clipart-xl.png" /> 
  
 
 
