@@ -15,6 +15,7 @@
      <img alt="MySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
      <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-00000F?style=for-the-badge&logo=mongodb&logoColor=white">
      <img alt="Postgresql" src="https://img.shields.io/badge/Postgresql-00000F?style=for-the-badge&logo=postgresql&logoColor=white">
+     <img alt="PL/SQL" src="https://img.shields.io/badge/PL/SQL-00000F?style=for-the-badge&logo=pl/sql&logoColor=white">
 </div>
 
 <div style="inline_block">
