@@ -15,7 +15,7 @@
      <img alt="MySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
      <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-00000F?style=for-the-badge&logo=mongodb&logoColor=white">
      <img alt="Postgresql" src="https://img.shields.io/badge/Postgresql-00000F?style=for-the-badge&logo=postgresql&logoColor=white">
-     <img alt="PL/SQL" src="https://img.shields.io/badge/PL/SQL-00000F?style=for-the-badge&logo=pl/sql&logoColor=white">
+     <img alt="PL/SQL" src="https://img.shields.io/badge/PL/SQL-00000F?style=for-the-badge&logo=plsql&logoColor=white">
 </div>
 
 <div style="inline_block">
@@ -30,6 +30,11 @@
   <img alt="React" src="https://img.shields.io/badge/React-00000F?style=for-the-badge&logo=react&logoColor=white">
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-00000F?style=for-the-badge&logo=node.js&logoColor=white">
   <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-00000F?style=for-the-badge&logo=javascript&logoColor=white">
+</div>
+<div style="inline_block">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-00000F?style=for-the-badge&logo=docker&logoColor=white">
+  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-00000F?style=for-the-badge&logo=kubernetes&logoColor=white">
+  <img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft Azure-00000F?style=for-the-badge&logo=microsoftazure&logoColor=white">
 </div>
 
 <br>
