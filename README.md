@@ -12,14 +12,12 @@
 ## 🚀 SKILLS
 
 <div style="inline_block">
-    <br>
      <img alt="MySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
      <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-00000F?style=for-the-badge&logo=mongodb&logoColor=white">
      <img alt="Postgresql" src="https://img.shields.io/badge/Postgresql-00000F?style=for-the-badge&logo=postgresql&logoColor=white">
 </div>
 
 <div style="inline_block">
-  <br>
   <img alt="C#" src="https://img.shields.io/badge/C%23-00000F?style=for-the-badge&logo=c-sharp&logoColor=white">
   <img alt="Java" src="https://img.shields.io/badge/Java-00000F?style=for-the-badge&logo=java&logoColor=white">
   <img alt="PHP" src="https://img.shields.io/badge/PHP-00000F?style=for-the-badge&logo=php&logoColor=white">
@@ -28,10 +26,9 @@
 </div>
 
 <div style="inline_block">
-  <br>
-  <img alt="React" src="https://img.shields.io/badge/React-00000F?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img alt="React" src="https://img.shields.io/badge/React-00000F?style=for-the-badge&logo=react&logoColor=white">
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-00000F?style=for-the-badge&logo=node.js&logoColor=white">
-  <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-00000F?style=for-the-badge&logo=javascript&logoColor=black">
+  <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-00000F?style=for-the-badge&logo=javascript&logoColor=white">
 </div>
 
 <br>
