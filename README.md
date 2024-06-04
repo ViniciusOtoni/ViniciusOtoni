@@ -13,7 +13,7 @@
     <br>
      <img alt="MySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
      <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-00000F?style=for-the-badge&logo=mongodb&logoColor=white">
-     <img alt="Postgree" src="https://img.shields.io/badge/Postgree-00000F?style=for-the-badge&logo=postgree&logoColor=white">
+     <img alt="Postgresql" src="https://img.shields.io/badge/Postgresql-00000F?style=for-the-badge&logo=postgresql&logoColor=white">
 
  <br>
     <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
