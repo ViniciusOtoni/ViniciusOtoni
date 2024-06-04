@@ -21,6 +21,8 @@
   <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
   <img alt="Java" src="https://img.shields.io/badge/Java-00000F?style=for-the-badge&logo=java&logoColor=white">
   <img alt="PHP" src="https://img.shields.io/badge/PHP-00000F?style=for-the-badge&logo=php&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-00000F?style=for-the-badge&logo=python&logoColor=white">
+  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-00000F?style=for-the-badge&logo=pandas&logoColor=white">
 </div>
 
 <div style="inline_block">
