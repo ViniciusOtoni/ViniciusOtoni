@@ -38,7 +38,9 @@
   <img alt="AWS" src="https://img.shields.io/badge/AWS-00000F?style=for-the-badge&logo=Aws&logoColor=%23FFFFFF">
   <img alt="Databricks" src="https://img.shields.io/badge/Databricks-00000F?style=for-the-badge&logo=Databricks&logoColor=%23FFFFFF">
 </div>
-
+<div style="inline_block">
+ <img alt="PowerBI" src="https://img.shields.io/badge/PowerBI?style=for-the-badge&logo=PowerBI&logoColor=white">
+</div>
 <br>
 
 <div> 
