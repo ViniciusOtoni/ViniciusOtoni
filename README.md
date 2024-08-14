@@ -35,6 +35,7 @@
   <img alt="Docker" src="https://img.shields.io/badge/Docker-00000F?style=for-the-badge&logo=docker&logoColor=white">
   <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-00000F?style=for-the-badge&logo=kubernetes&logoColor=white">
   <img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft Azure-00000F?style=for-the-badge&logo=microsoftazure&logoColor=white">
+ <img alt="AWS" src="https://img.shields.io/badge/AWS-00000F?style=for-the-badge&logo=aws&logoColor=%23FFFFFF">
 </div>
 
 <br>
