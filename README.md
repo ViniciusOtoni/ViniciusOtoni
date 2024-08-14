@@ -39,7 +39,7 @@
   <img alt="Databricks" src="https://img.shields.io/badge/Databricks-00000F?style=for-the-badge&logo=Databricks&logoColor=%23FFFFFF">
 </div>
 <div style="inline_block">
-  <img alt="PowerBI" src="https://img.shields.io/badge/PowerBI-00000F?style=for-the-badge&logo=PowerBI&logoColor=white">
+  <img alt="PowerBI" src="https://img.shields.io/badge/PowerBI-00000F?style=for-the-badge&logo=powerBI&logoColor=white">
 </div>
 
 <br>
